@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r  *.c~ Makefile~
+rm -r  *.c~
