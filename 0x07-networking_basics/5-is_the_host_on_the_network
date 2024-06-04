@@ -13,4 +13,5 @@ elif [$# -gt 1 ]; then
     exit
 else
 
-    ping  "$1"
+    ping  "$1" -c 5
+fi
